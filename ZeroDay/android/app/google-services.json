@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730115463676",
+    "project_id": "zerodaygdsc",
+    "storage_bucket": "zerodaygdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730115463676:android:aa669c3e76d5358ac4ba79",
+        "android_client_info": {
+          "package_name": "com.zeroday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730115463676-7ql7qqi8vsobggcljb6p1eu3dn10di2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroday",
+            "certificate_hash": "8fa71318892bd9883508c6df9c19f9775d6e848f"
+          }
+        },
+        {
+          "client_id": "730115463676-054bmp9kgrvj4j3j5m8sg3ut7rjcb127.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPbi_gZ0Co25fhkdYEneF2zgX1YRlbuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730115463676-054bmp9kgrvj4j3j5m8sg3ut7rjcb127.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
